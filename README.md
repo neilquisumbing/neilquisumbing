@@ -1,8 +1,6 @@
 ### Hi there 👋 name's **Neil Ian Pariñas Quisumbing**
 
-I enjoy creating and breaking things! Feel free to look around my projects!
-
-I also have a [personal website](https://www.neilquisumbing.com) 
+I enjoy *creating* and *breaking* things! Feel free to look around my projects!
 
 <!--
 **neilquisumbing/neilquisumbing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
