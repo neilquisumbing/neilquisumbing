@@ -1,6 +1,4 @@
-### G'day 👋 my name is **Neil Ian Pariñas Quisumbing**
-
-I enjoy *creating* and *breaking* things! Feel free to look around my projects!
+### G'day 👋 my name is **Neil**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilquisumbing&layout=compact&hide_border&bg_color=000000)
 
