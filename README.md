@@ -1,4 +1,5 @@
 ### G'day 👋 my name is **Neil**
+![](https://komarev.com/ghpvc/?username=neilquisumbing)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilquisumbing&layout=compact&bg_color=282c34)
 
