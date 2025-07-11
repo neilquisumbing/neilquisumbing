@@ -9,5 +9,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143?style=flat&logo=neovim&logoColor=white)
 
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
