@@ -20,5 +20,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
 
 ## Resume / 
