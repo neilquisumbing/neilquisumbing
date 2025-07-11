@@ -11,5 +11,6 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Pythonaaaa](https://img.shields.io/badge/Python-FFD43B?flat&logo=python&logoColor=blue)
