@@ -25,6 +25,10 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
 
 ## Resume / CV
+> [!IMPORTANT]  
+> <a href="" download>Download my Resume!</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 ## Music
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=neil.7089&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=008000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
