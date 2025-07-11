@@ -6,8 +6,6 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143?style=flat&logo=neovim&logoColor=white)
 
 ## 📈 My GitHub stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilquisumbing&layout=compact&bg_color=282c34)
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilquisumbing&layout=compact&bg_color=000000">
