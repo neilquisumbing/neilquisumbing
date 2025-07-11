@@ -5,11 +5,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143?style=flat&logo=neovim&logoColor=white)
 
-## 📈 My GitHub stats
+## My GitHub stats
 <div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilquisumbing&layout=compact&bg_color=000000">
-  </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=neilquisumbing&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="neilquisumbing's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=neilquisumbing&theme=dark&hide_border=true" alt="neilquisumbing's Streak" height="165">
