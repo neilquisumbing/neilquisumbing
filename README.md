@@ -10,6 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilquisumbing&layout=compact&bg_color=282c34)
 <div class="badges-githubstats">
   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilquisumbing&layout=compact&bg_color=282c34">
     <img src="https://github-readme-stats.vercel.app/api?username=neilquisumbing&theme=aura&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=neilquisumbing&theme=aura&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
